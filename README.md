@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Lucas Lima</h1>
 
-<!--
-**dbinnn/dbinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Desenvolvedor Júnior • Estudante de ADS 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade de Marília (UNIMAR)**  
+- 💻 Foco em desenvolvimento **Web, Mobile**, **Suporte Técnico**, **Assistente Técnico**, **Banco de Dados** e diversas outras áreas.
+- 🚀 Buscando oportunidades de **estágio** para aplicar meus conhecimentos  
+- 🌍 Marília - SP, 20 anos  
+
+---
+
+### 🛠️ Linguagens e Tecnologias
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+</p>
+
+---
+
+### 🌐 Contato
+- 📧 E-mail: **contato.limee@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/lldomingos](https://linkedin.com/in/lldomingos)  
+- 📱 WhatsApp: **[(14) 99857-8498](https://wa.me/5514998578498)**
