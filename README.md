@@ -7,12 +7,5 @@
 📍 Marília - SP · 21 anos
 🛠️ Linguagens e Tecnologias
 <p align="center"> <b>Front-end</b><br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,bootstrap" /> </p> <p align="center"> <b>Back-end e Banco de Dados</b><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,cs,postgres,sqlite,supabase" /> </p> <p align="center"> <b>Ferramentas</b><br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,vite" /> </p>
-🚀 Projetos em destaque
-<p align="center"> <a href="https://github.com/dbinnn/ficha-gestao"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbinnn&repo=ficha-gestao&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/dbinnn/controle-de-notas"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbinnn&repo=controle-de-notas&theme=tokyonight&hide_border=true" /> </a> </p>
-Projeto	Descrição	Tecnologias
-📊 Ficha Gestão	Gestão fiscal mensal de empresas com leitura automática de PDFs de apuração (ICMS, PIS/COFINS, DCTFWeb) por OCR, conferência, fechamento e ficha anual em PDF/Excel	Vue · TypeScript · Node.js · PostgreSQL · Supabase
-🧾 Controle de Notas	Controle das solicitações de NF, NFS e CT-e com prazos, status, histórico, lixeira, backups e exportação para Excel	Python · Flask · SQLite · JavaScript
-📈 Estatísticas
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=dbinnn&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbinnn&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=dbinnn&theme=tokyonight&hide_border=true&locale=pt_BR" /> </p>
 📫 Contato
 <p align="center"> <a href="mailto:contato.limee@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/lldomingos"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://wa.me/5514997733424"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12aaa5,100:0f766e&height=100&section=footer" /> </p>
