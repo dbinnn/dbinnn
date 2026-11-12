@@ -1,16 +1,14 @@
 <h1 align="center">👨‍💻 Lucas Lima</h1>
 
 <p align="center">
-  <em>Desenvolvedor Júnior • Estudante de ADS 
+  <em>Desenvolvedor  
 </p>
 
 ---
 
-### 📖 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade de Marília (UNIMAR)**  
-- 💻 Foco em desenvolvimento **Web, Mobile**, **Suporte Técnico**, **Assistente Técnico**, **Banco de Dados** e diversas outras áreas.
-- 🚀 Buscando oportunidades de **estágio** para aplicar meus conhecimentos  
-- 🌍 Marília - SP, 20 anos  
+### 📖 Sobre mim  
+- 💻 Foco em desenvolvimento **Web, Mobile**, **Suporte Técnico**, **Assistente Técnico**, **Banco de Dados** e diversas outras áreas. 
+- 🌍 Marília - SP, 21 anos  
 
 ---
 
@@ -32,5 +30,5 @@
 
 ### 🌐 Contato
 - 📧 E-mail: **contato.limee@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/lldomingos](https://linkedin.com/in/lldomingos)  
-- 📱 WhatsApp: **[(14) 99857-8498](https://wa.me/5514998578498)**
+- 💼 LinkedIn: [linkedin.com/in/lldomingos](https://linkedin.com/in/lldomingoss)  
+- 📱 WhatsApp: **[(14) 99773-3424](https://wa.me/5514997733424)**
